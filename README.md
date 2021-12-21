@@ -1,5 +1,5 @@
 # CFIDNet
-# [BPFINet: Boundary-aware Progressive Feature Integration Network for Salient Object Detection]()
+# [CFIDNet: Cascaded Feature Interaction Decoder for RGB-D Salient Object Detection]()
 
 This repo. is an official implementation of the *BPFINet* , which has been accepted in the journal *Neural computing and applications, 2022*. 
 
