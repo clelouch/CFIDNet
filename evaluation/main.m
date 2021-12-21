@@ -35,9 +35,7 @@ datasets = {
  
 
 data_root='E:\sal_rgbd_datasets\dataset\RGBD_for_test\';
-maps_root = 'F:\PycharmProjects\CDNet\CDNet_test_dir\RGBD_for_test\';
-% maps_root = 'F:\PycharmProjects\DQTNet\results\';
-% maps_root='E:\sal_rgbd_results\';
+maps_root='E:\sal_rgbd_results\';
 
 for i = 1:numel(algorithms)
     alg = algorithms{i};
