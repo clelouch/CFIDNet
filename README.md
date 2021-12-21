@@ -33,7 +33,7 @@ The saliency maps are also available ([Baidu](https://pan.baidu.com/s/13AVPlbqQu
 ## Citation
 Please cite the `CFIDNet` in your publications if it helps your research:
 ```
-@article{CHEN2021,
+@article{CHEN2022,
   title = {CFIDNet: Cascaded Feature Interaction Decoder for RGB-D Salient Object Detection},
   author = {Tianyou Chen and Xiaoguang Hu and Jin Xiao and Guofeng Zhang and Shaojie Wang},
   journal = {Neural Computing and Applications},
