@@ -1,7 +1,7 @@
 # CFIDNet
 # [CFIDNet: Cascaded Feature Interaction Decoder for RGB-D Salient Object Detection]()
 
-This repo. is an official implementation of the *BPFINet* , which has been accepted in the journal *Neural computing and applications, 2022*. 
+This repo. is an official implementation of the *CFIDNet* , which has been accepted in the journal *Neural computing and applications, 2022*. 
 
 The main pipeline is shown as the following, 
 ![CFIDNet](figures/network.png)
