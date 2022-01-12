@@ -1,5 +1,5 @@
 # CFIDNet
-# [CFIDNet: Cascaded Feature Interaction Decoder for RGB-D Salient Object Detection]()
+# [CFIDNet: Cascaded Feature Interaction Decoder for RGB-D Salient Object Detection](https://link.springer.com/article/10.1007%2Fs00521-021-06845-3)
 
 This repo. is an official implementation of the *CFIDNet* , which has been accepted in the journal *Neural computing and applications, 2022*. 
 
